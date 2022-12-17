@@ -1,6 +1,6 @@
 # COE318
 
-Labs completed at Toronto Metropolitan University in the course Software Systems using Java and the NetBeans IDE.
+Labs completed at Toronto Metropolitan University in the course Software Systems using Java and the NetBeans IDE. The content is my homework so please do not copy but feel free to use it as a reference.
 
 Lab 1 - Outputs the resistance, current, voltage, and power of a created resistor.
 
